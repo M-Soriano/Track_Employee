@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS db_tracker12;
+CREATE DATABASE tracker12;
+USE tracker12;

@@ -5,7 +5,7 @@ const db = mysql.createConnection({
 
     user: 'root',
 
-    password: 'whynot', 
+    password: 'Whyme2022#949', 
 
     database: 'tracker12'
 
